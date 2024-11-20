@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: url(GettyImages-476857817-56cc7cdd5f9b5879cc590827.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+  margin: 10px;
+  padding: 10px;
+}
+
+h1 {
+  color: #cf1221;
+  font-size: 60px;
+  margin-top: 200px;
+}
+
+.converter {
+  margin-top: 20px;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #000000;
+  color: rgb(233, 23, 23);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #000000;
+}
+
+.output {
+  margin-top: 20px;
+  font-size: 30px;
+  color: red;
+  border: 10px black;
+}
+
+a {
+  display: block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
